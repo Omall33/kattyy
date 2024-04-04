@@ -1,0 +1,9 @@
+.text-danger {
+  color: red;
+  font-size: 16px;
+}
+
+.text-success {
+  color: darkgreen;
+  font-size: 16px;
+}
